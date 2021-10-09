@@ -29,8 +29,8 @@
  
 </div>
 <div> 
- <ul>• Moro em Guaiba, Rio Grande so Sul 🇧🇷 <ul>
- <ul>• Procuro colaborar no Desenvolvimento de softwares, Desenvolvimento Web e Suporte Técnico de Computadores 🖥💻🖨 </ul>
- <ul>• Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FAQI Faculdade QI Brasil 📝📓 </ul>
- <ul>• Domino sistemas operacionais Windows e Linux </ul>
+<ul>• Moro em Guaiba, Rio Grande so Sul 🇧🇷 <ul>
+<ul>• Procuro colaborar no Desenvolvimento de softwares, Desenvolvimento Web e Suporte Técnico de Computadores 🖥💻🖨 </ul>
+<ul>• Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FAQI Faculdade QI Brasil 📝📓 </ul>
+<ul>• Domino sistemas operacionais Windows e Linux </ul>
 </div>
