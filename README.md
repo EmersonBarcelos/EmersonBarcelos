@@ -29,7 +29,7 @@
  
 </div>
 <div> 
- • Moro em Guaiba, Rio Grande so Sul 🇧🇷
+  <p>• Moro em Guaiba, Rio Grande so Sul 🇧🇷 </p>
  • Procuro colaborar no Desenvolvimento de softwares, Desenvolvimento Web e Suporte Técnico de Computadores 🖥💻🖨
  • Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FAQI Faculdade QI Brasil 📝📓
  • Domino sistemas operacionais Windows e Linux 
