@@ -28,4 +28,9 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+ • Moro em Guaiba, Rio Grande so Sul 🇧🇷
+ • Procuro colaborar no Desenvolvimento de softwares, Desenvolvimento Web e Suporte Técnico de Computadores 🖥💻🖨
+ • Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FAQI Faculdade QI Brasil 📝📓
+ • Domino sistemas operacionais Windows e Linux 
 
