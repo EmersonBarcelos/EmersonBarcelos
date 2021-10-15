@@ -1,4 +1,4 @@
-## Olá eu sou o Emerson Barcelos, programador e estudante de ADS!
+## Olá eu sou o Emerson Barcelos, Programador e Estudante de ADS!
 <div align="center">
   <a href="https://github.com/EmersonHBP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonHBP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
