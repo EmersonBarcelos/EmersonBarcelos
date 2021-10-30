@@ -1,8 +1,8 @@
 ## Olá eu sou o Emerson Barcelos, Programador e Estudante de ADS!
 <div align="center">
-  <a href="https://github.com/EmersonHBP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonHBP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonHBP&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/EmersonBarcelos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonBarcelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonBarcelos&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
