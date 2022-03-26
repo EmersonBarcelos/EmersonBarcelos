@@ -25,20 +25,19 @@
 <div>
   
 ```Js
-import Desenvolvedor from 'SeuNick';
+const express = require('express')
+const app = express()
 
-class SobreMim extends Desenvolvedor {
-  nome     = 'Seu nome';
-  area    = 'Sua área';
-  trabalho  = 'Onde trabalha';
-  local = 'Local';
-}
+const Developer = {name:"Emerson", stack:"Full-Stack-Developer"}
 
-class Skills extends Desenvolvedor {
-  linguagens  = ['Suas linguagens'];
-  bibliotecas  = ['Suas bibliotecas'];
-  frameworks = ['Seus frameworks'];
-}
+app.get('/', (req, res) =>{
+  return res.send(Developer)
+}),
+
+app.listen(3000, () =>{
+  console.log("Initing code...")
+})
+
 ```
 </div>
   <a href="https://instagram.com/emersonbarcelos38" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
